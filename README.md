@@ -1,0 +1,4 @@
+Rainfall_prediction in TamilNadu
+
+Introduction: This project focuses on the development and evaluation of rainfall prediction models for three distinct districts in Tamil Nadu: Erode, Dindigul, and Karur. Leveraging historical rainfall data, meteorological variables, and advanced machine learning techniques, we aim to provide accurate and timely rainfall forecasts. Our work not only uncovers varying precipitation patterns in these regions but also highlights the effectiveness of our prediction models. The project's findings hold significant implications for agriculture, helping farmers make informed decisions on crop planning and irrigation, and aiding local authorities in preparing for flood or drought events. Ultimately, this study contributes to the resilience and sustainability of agricultural communities in the face of climate variability
+
