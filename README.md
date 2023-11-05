@@ -19,7 +19,8 @@ The real-world impact of One API is profound. It acts as the driving force behin
 
 ## Runtime comparisons
 
-![runtime_without_sklearnex](https://github.com/nirranjana6/one_api-rainfall/assets/142658789/d12f0258-861c-4049-bf06-da2ad6c458f7)
+[![runtime_without_sklearex](https://github.com/nirranjana6/one_api-rainfall/assets/142658789/d6e9a1c7-455c-4502-8145-828735267f77)
+
 
 ![runtime_with_sklearnex](https://github.com/nirranjana6/one_api-rainfall/assets/142658789/83f7dfe8-4a31-48fc-9f41-f689dc09026c)
 
